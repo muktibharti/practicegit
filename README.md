@@ -1,4 +1,4 @@
 # practicegit
 
 hello all,
-     I am doing practice of git.
+     I am doing git command practice.
